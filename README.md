@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @charity553
-- 👀 I’m interested in data science and cybersecurity
+- 👀 I’m interested in machine learning and web development
 - 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on different projects using python and machine learning
 - 📫 Reach me via my email kokicharity3@gmail.com

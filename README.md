@@ -56,3 +56,6 @@
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=charity553)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charity553&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Charity's GitHub stats](https://github-readme-stats.vercel.app/api?username=charity553)](https://github.com/charity553/github-readme-stats)
+
+
